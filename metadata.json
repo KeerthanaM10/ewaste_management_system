@@ -1,0 +1,8 @@
+
+{
+  "name": "AI E-Waste Detection System",
+  "description": "A comprehensive AI monitoring interface that demonstrates how machine learning models integrate with an e-waste management system. Users can upload images or use their camera to simulate AI-powered classification, material analysis, and value estimation of electronic waste.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
